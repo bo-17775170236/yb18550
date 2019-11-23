@@ -56,16 +56,12 @@ title可加可不加
     fun();
 (```)
 ## 9.流程图写入
-mermaid
-graph LR
-    start[开始] --> input[输入A,B,C]
-    input --> conditionA{A是否大于B}
-    conditionA -- YES --> conditionC{A是否大于C}
-    conditionA -- NO --> conditionB{B是否大于C}
-    conditionC -- YES --> printA[输出A]
-    conditionC -- NO --> printC[输出C]
-    conditionB -- YES --> printB[输出B]
-    conditionB -- NO --> printC[输出C]
-    printA --> stop[结束]
-    printC --> stop
-    printB --> stop
+st=>start: start:>http://www.baidu.com
+op1=>operation: 操作1
+cond1=>condition: YES or NO?
+sub=>subroutine: 子程序
+e=>end
+
+st->op1->cond1
+cond1(yes)->e
+cond1(no)->sub(right)->op1
