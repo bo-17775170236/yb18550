@@ -24,10 +24,10 @@
 ***
 *****
 ## 5.图片的引用
-![鬼灭之刃](http://a3.qpic.cn/psb?/V13fJoaH2EnU0x/WPGfjSGLb6e9FRUfy*zg1i.Khcylm5lX1hBRUjDgcro!/b/dLYAAAAAAAAA&ek=1&kp=1&pt=0&bo=6AMaAgAAAAARF9M!&tl=3&vuin=1413642083&tm=1574496000&sce=60-1-1&rf=viewer_4''图片title'')
+![鬼灭之刃](http://a3.qpic.cn/psb?/V13fJoaH2EnU0x/WPGfjSGLb6e9FRUfy*zg1i.Khcylm5lX1hBRUjDgcro!/b/dLYAAAAAAAAA&ek=1&kp=1&pt=0&bo=6AMaAgAAAAARF9M!&tl=3&vuin=1413642083&tm=1574496000&sce=60-1-1&rf=viewer_4''鬼灭之刃'')
 
--图片alt就是显示在图片下面的文字，相当于对图片内容的解释。
--图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加
+- 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。
+- 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加
 ## 6.超链接的使用
 [超链接名](超链接地址 "超链接title")
 title可加可不加
