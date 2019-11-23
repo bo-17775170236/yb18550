@@ -27,5 +27,6 @@
 ## 6.超链接的使用
 [超链接名](超链接地址 "超链接title")
 title可加可不加
-### 例如：[简书](http://jianshu.com)
+### 例如：
+[简书](http://jianshu.com)
 [百度](http://baidu.com)
