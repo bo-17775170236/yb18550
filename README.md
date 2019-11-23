@@ -56,9 +56,9 @@ title可加可不加
     fun();
 (```)
 ## 9.流程图写入
-mermaid
+'mermaid
 graph TD
     A-->B
     A-->C
     B-->D
-    C-->D
+    C-->D'
