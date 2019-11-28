@@ -1,4 +1,4 @@
-[yb18550](https://github.com/bo-17775170236)
+[bo-17775170236](https://github.com/bo-17775170236)
 # –讲述自己学习Markdown的过程、经历和实践，以及成果展示(各种Markdown语法的使用)
 ## 1.标题的展示
 # 这是一级标题
@@ -24,7 +24,7 @@
 ***
 *****
 ## 5.图片的引用
-![鬼灭之刃](http://a3.qpic.cn/psb?/V13fJoaH2EnU0x/WPGfjSGLb6e9FRUfy*zg1i.Khcylm5lX1hBRUjDgcro!/b/dLYAAAAAAAAA&ek=1&kp=1&pt=0&bo=6AMaAgAAAAARF9M!&tl=3&vuin=1413642083&tm=1574496000&sce=60-1-1&rf=viewer_4''鬼灭之刃'')
+![风景](http://a3.qpic.cn/psb?/V13fJoaH2EnU0x/E3pWGiLCeuv5ofGv21m9J1USauzameNNonuMeXxGKwE!/b/dLYAAAAAAAAA&ek=1&kp=1&pt=0&bo=sAQgA7AEIAMRADc!&tl=1&tm=1574938800&sce=0-12-12&rf=viewer_311)
 
 - 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。
 - 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加
