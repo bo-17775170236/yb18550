@@ -26,8 +26,7 @@
 ## 5.图片的引用
 ![风景](http://a3.qpic.cn/psb?/V13fJoaH2EnU0x/E3pWGiLCeuv5ofGv21m9J1USauzameNNonuMeXxGKwE!/b/dLYAAAAAAAAA&ek=1&kp=1&pt=0&bo=sAQgA7AEIAMRADc!&tl=1&tm=1574938800&sce=0-12-12&rf=viewer_311)
 
-- 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。
-- 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加
+
 ## 6.超链接的使用
 [超链接名](超链接地址 "超链接title")
 title可加可不加
@@ -61,3 +60,14 @@ title可加可不加
 * 列表内容        
 
 注意：- + * 跟内容之间都要有一个空格
+## 在自己电脑上安装Tomcat和Mysql
+- tomcat
+![tomcat](http://m.qpic.cn/psb?/V13fJoaH2EnU0x/XslGc1ArJLTDvRYCJR.FNjCQqI7Jwpvs*PvDHixCfpo!/b/dLYAAAAAAAAA&bo=KQQHAgAAAAADFxo!&rf=viewer_4)
+- mysql
+![mysql](http://m.qpic.cn/psb?/V13fJoaH2EnU0x/xYcaDIsaha4d0bol2i4XsNoT8vduuhT8Ptbwuz2eAXY!/b/dLYAAAAAAAAA&bo=4QMXBAAAAAADF8M!&rf=viewer_4)
+## 网页效果图
+![1](http://a2.qpic.cn/psb?/V13fJoaH2EnU0x/esf9ScJE5qaYFkiw2r5EdpcDLM5dawAMxQhzg.HsNzw!/b/dFEBAAAAAAAA&ek=1&kp=1&pt=0&bo=gAc4BAAAAAADZ*k!&tl=1&vuin=1413642083&tm=1574946000&sce=60-1-1&rf=viewer_4)
+![2](http://m.qpic.cn/psb?/V13fJoaH2EnU0x/t1OwgeQFXGF7im2ctOU68.89GQiTXHJz..V5MWSTpL4!/b/dLYAAAAAAAAA&bo=gAcQBAAAAAADV.E!&rf=viewer_4)
+![3](http://m.qpic.cn/psb?/V13fJoaH2EnU0x/sVADihEP82UylP5Oo7VAwwoyx9atYpVRzCaW1KAi0nU!/b/dL8AAAAAAAAA&bo=gAcQBAAAAAADd8E!&rf=viewer_4)
+![4](http://m.qpic.cn/psb?/V13fJoaH2EnU0x/6tFomRVZ20EtH8wLZ5j1Y6SVw1szjEC9QfZzEMzMGoQ!/b/dL8AAAAAAAAA&bo=gAcQBAAAAAADhzE!&rf=viewer_4)
+![5](http://m.qpic.cn/psb?/V13fJoaH2EnU0x/Or6bWtm3tZCYkVa3rr5o6Vp0Kee8H0aY5nL*UwzSZRc!/b/dFABAAAAAAAA&bo=gAcQBAAAAAADd8E!&rf=viewer_4)
